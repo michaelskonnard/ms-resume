@@ -1,12 +1,6 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
-
-[Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+# [Michael Skonnard - Resume](https://startbootstrap.com/theme/resume/)
 
 ## Preview
-
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
 
 ## Status
 
@@ -14,15 +8,6 @@
 [![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
 [![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-resume/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-resume)
 [![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-resume/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-resume?type=dev)
-
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/resume/)
-- Install using npm: `npm i startbootstrap-resume`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
 
 ## Usage
 
